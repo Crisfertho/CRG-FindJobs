@@ -1,0 +1,1 @@
+<h1 class="text-gray-700 dark:text-gray-200 text-2xl">Find <span class="font-extrabold">Jobs</span> </h1>
